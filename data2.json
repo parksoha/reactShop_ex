@@ -1,0 +1,23 @@
+[
+  {
+    "id": 6,
+    "title": "flowey",
+    "content": "only 5 inches",
+    "price": 12000,
+    "img": "https://parksoha.github.io/ex_img/cont3_cake6.png"
+  },
+  {
+    "id": 7,
+    "title": "baby shoes",
+    "content": "only 7 inches",
+    "price": 32000,
+    "img": "https://parksoha.github.io/ex_img/cont3_cake7.png"
+  },
+  {
+    "id": 8,
+    "title": "red herring",
+    "content": "only 8 inches",
+    "price": 22000,
+    "img": "https://parksoha.github.io/ex_img/cont3_cake8.png"
+  }
+]
